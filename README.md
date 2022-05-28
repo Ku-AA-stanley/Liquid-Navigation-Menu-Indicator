@@ -1,6 +1,8 @@
 # Liquid-Navigation-Menu-Indicator
 https://ngarox.github.io/Liquid-Navigation-Menu-Indicator/
 
+![](https://i.imgur.com/sD4jjvG.png)
+
 ## original
 
 - [html/css/js](https://www.youtube.com/watch?v=argynmjupK8)
